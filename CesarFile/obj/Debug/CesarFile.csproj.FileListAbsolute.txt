@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ATBMTT_K68\CesarFile\bin\Debug\CesarFile.exe.config
+C:\Users\Admin\source\repos\ATBMTT_K68\CesarFile\bin\Debug\CesarFile.exe
+C:\Users\Admin\source\repos\ATBMTT_K68\CesarFile\bin\Debug\CesarFile.pdb
+C:\Users\Admin\source\repos\ATBMTT_K68\CesarFile\obj\Debug\CesarFile.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ATBMTT_K68\CesarFile\obj\Debug\CesarFile.Form1.resources
+C:\Users\Admin\source\repos\ATBMTT_K68\CesarFile\obj\Debug\CesarFile.Properties.Resources.resources
+C:\Users\Admin\source\repos\ATBMTT_K68\CesarFile\obj\Debug\CesarFile.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ATBMTT_K68\CesarFile\obj\Debug\CesarFile.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ATBMTT_K68\CesarFile\obj\Debug\CesarFile.exe
+C:\Users\Admin\source\repos\ATBMTT_K68\CesarFile\obj\Debug\CesarFile.pdb

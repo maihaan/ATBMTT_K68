@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaMD5\bin\Debug\MaHoaMD5.exe.config
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaMD5\bin\Debug\MaHoaMD5.exe
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaMD5\bin\Debug\MaHoaMD5.pdb
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaMD5\obj\Debug\MaHoaMD5.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaMD5\obj\Debug\MaHoaMD5.Form1.resources
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaMD5\obj\Debug\MaHoaMD5.Properties.Resources.resources
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaMD5\obj\Debug\MaHoaMD5.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaMD5\obj\Debug\MaHoaMD5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaMD5\obj\Debug\MaHoaMD5.exe
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaMD5\obj\Debug\MaHoaMD5.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaRSA\bin\Debug\MaHoaRSA.exe.config
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaRSA\bin\Debug\MaHoaRSA.exe
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaRSA\bin\Debug\MaHoaRSA.pdb
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaRSA\obj\Debug\MaHoaRSA.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaRSA\obj\Debug\MaHoaRSA.Form1.resources
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaRSA\obj\Debug\MaHoaRSA.Properties.Resources.resources
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaRSA\obj\Debug\MaHoaRSA.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaRSA\obj\Debug\MaHoaRSA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaRSA\obj\Debug\MaHoaRSA.exe
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaRSA\obj\Debug\MaHoaRSA.pdb

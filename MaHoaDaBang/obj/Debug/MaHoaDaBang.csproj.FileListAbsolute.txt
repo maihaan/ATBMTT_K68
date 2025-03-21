@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaDaBang\bin\Debug\MaHoaDaBang.exe.config
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaDaBang\bin\Debug\MaHoaDaBang.exe
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaDaBang\bin\Debug\MaHoaDaBang.pdb
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaDaBang\obj\Debug\MaHoaDaBang.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaDaBang\obj\Debug\MaHoaDaBang.Form1.resources
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaDaBang\obj\Debug\MaHoaDaBang.Properties.Resources.resources
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaDaBang\obj\Debug\MaHoaDaBang.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaDaBang\obj\Debug\MaHoaDaBang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaDaBang\obj\Debug\MaHoaDaBang.exe
+C:\Users\Admin\source\repos\ATBMTT_K68\MaHoaDaBang\obj\Debug\MaHoaDaBang.pdb

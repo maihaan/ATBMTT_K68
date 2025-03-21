@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ATBMTT_K68\OneTimePad\bin\Debug\OneTimePad.exe.config
+C:\Users\Admin\source\repos\ATBMTT_K68\OneTimePad\bin\Debug\OneTimePad.exe
+C:\Users\Admin\source\repos\ATBMTT_K68\OneTimePad\bin\Debug\OneTimePad.pdb
+C:\Users\Admin\source\repos\ATBMTT_K68\OneTimePad\obj\Debug\OneTimePad.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ATBMTT_K68\OneTimePad\obj\Debug\OneTimePad.Form1.resources
+C:\Users\Admin\source\repos\ATBMTT_K68\OneTimePad\obj\Debug\OneTimePad.Properties.Resources.resources
+C:\Users\Admin\source\repos\ATBMTT_K68\OneTimePad\obj\Debug\OneTimePad.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ATBMTT_K68\OneTimePad\obj\Debug\OneTimePad.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ATBMTT_K68\OneTimePad\obj\Debug\OneTimePad.exe
+C:\Users\Admin\source\repos\ATBMTT_K68\OneTimePad\obj\Debug\OneTimePad.pdb
